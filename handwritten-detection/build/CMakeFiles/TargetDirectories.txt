@@ -1,0 +1,3 @@
+/home/aurelie/TER/typed-handwritten/TER/build/CMakeFiles/rebuild_cache.dir
+/home/aurelie/TER/typed-handwritten/TER/build/CMakeFiles/edit_cache.dir
+/home/aurelie/TER/typed-handwritten/TER/build/CMakeFiles/DisplayImage.dir
